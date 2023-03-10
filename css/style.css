@@ -21,11 +21,11 @@ body {
     background-color: var(--theme-color-main);
     backdrop-filter: blur(7px);
     z-index: 999;
-    height: 145px;
+    height: 100px;
 }
 
 .navbar-top-mar {
-    margin-top: 40px;
+    margin-top: 5px;
 }
 
 .btn-close {
@@ -2454,7 +2454,7 @@ hr.hr-left {
 }
 
 .is-page-home .section-start {
-    margin-top: 3rem;
+    margin-top: 7rem;
 }
 
 .header-navbar ul li.nav-item-lang a {
